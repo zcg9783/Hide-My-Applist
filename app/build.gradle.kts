@@ -19,7 +19,7 @@ if (officialBuild) {
 }
 
 android {
-    namespace = "com.zcg.hide"
+    namespace = "com.bilibili.app.in"
 
     buildFeatures {
         buildConfig = true
